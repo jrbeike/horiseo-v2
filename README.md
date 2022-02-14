@@ -14,7 +14,7 @@ Goals to provide SEO optimiziation via:
 
 #### To view the website
 
-Website: 
+Website: https://jrbeike.github.io/horiseo-v2/
 
 
 ## Contribution by:
