@@ -1,4 +1,4 @@
-[<img width="1592" alt="screen shot" src="./assets/images/online-reputation-management.jpg"](https://jrbeike.github.io/horiseo-v2/)
+[<img width="1592" alt="screen shot" src="(assets/images/digital-marketing-meeting.jpg)"
 
 # Horiseon
 
