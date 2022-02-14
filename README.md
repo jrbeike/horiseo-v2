@@ -4,7 +4,7 @@
 * HTML
 * CSS
 
-## Horiseo
+## Horiseon
 Goals to provide SEO optimiziation via:
 * Serach Engine Optimization
 * Online Reputation Management
