@@ -14,7 +14,7 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* header class start*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -40,7 +40,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* header class end*/
 a {
     color: #ffffff;
     text-decoration: none;
@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* image formating*/
 .hero {
     height: 800px;
     width: 100%;
@@ -74,7 +74,9 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+/* image formatting ends*/
 
+/*benefits class Start*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -133,6 +135,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/*benefits class end*/
+
+/* head of page start*/
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -177,6 +182,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*head of page ends*/
 
 .online-reputation-management h2 {
     margin-bottom: 20px;

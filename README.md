@@ -1,4 +1,4 @@
-# Horiseo
+# Horiseon
 
 ## Built with
 * HTML
